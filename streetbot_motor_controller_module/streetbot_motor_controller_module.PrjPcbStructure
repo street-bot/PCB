@@ -1,3 +1,5 @@
-Record=TopLevelDocument|FileName=motor.SchDoc
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=mot1|SchDesignator=mot1|FileName=motor.SchDoc|SymbolType=Normal|RawFileName=motor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=mot2|SchDesignator=mot2|FileName=motor.SchDoc|SymbolType=Normal|RawFileName=motor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=motor.SchDoc|Designator=hb1|SchDesignator=hb1|FileName=halfBridge.SchDoc|SymbolType=Normal|RawFileName=halfBridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=motor.SchDoc|Designator=hb2|SchDesignator=hb2|FileName=halfBridge.SchDoc|SymbolType=Normal|RawFileName=halfBridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
