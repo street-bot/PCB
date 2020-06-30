@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\frank\Desktop\streetbot\PCB\powerhub\PCB_Project\powerhub.PcbDoc
+Date     : 2020-06-30
+Time     : 1:32:04 PM
+
+Processing Rule : Clearance Constraint (Gap=5mil) ((HasFootprint('0603 Solder Bridge-Footprint-1'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=500mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (1857.189mil,2125mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (1857.189mil,2195mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (1903.189mil,2125mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (1903.189mil,2195mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (2725mil,1775mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (2725mil,1845mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (2725mil,1910mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (2790mil,1935mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (2855mil,1935mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+Rule Violations :9
+
+Processing Rule : Hole Size Constraint (Min=12mil) (Max=39370.079mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=12mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (OnLayer('Top Overlay')  or   OnLayer('Bottom Overlay'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=99999mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:01
