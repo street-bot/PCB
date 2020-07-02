@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\frank\Desktop\streetbot\PCB\powerhub\PCB_Project\powerhub.PcbDoc
-Date     : 2020-06-30
-Time     : 1:32:04 PM
+Date     : 2020-07-02
+Time     : 7:14:43 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) ((HasFootprint('0603 Solder Bridge-Footprint-1'))),(All)
 Rule Violations :0
