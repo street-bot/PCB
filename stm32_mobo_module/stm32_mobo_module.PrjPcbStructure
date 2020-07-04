@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=bkpln|SchDesignator=bkpln|FileName=backplane.SchDoc|SymbolType=Normal|RawFileName=backplane.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=eth|SchDesignator=eth|FileName=eth.SchDoc|SymbolType=Normal|RawFileName=eth.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=mcu|SchDesignator=mcu|FileName=STM32.SchDoc|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=vcp|SchDesignator=vcp|FileName=vcp.SchDoc|SymbolType=Normal|RawFileName=vcp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
