@@ -1,0 +1,83 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\jamesliu\Documents\Altium\streetbot-pcb\stm32_mobo_module\main.PcbDoc
+Date     : 7/6/2020
+Time     : 1:23:32 PM
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) ((HasFootprint('0603 Solder Bridge-Footprint-1'))),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=12.7mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.305mm) (Max=1000mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.305mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (0.3mm < 0.305mm) Between Via (10.825mm,9.575mm) from Top Layer to Bottom Layer And Via (11.125mm,10.1mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.295mm < 0.305mm) Between Via (10.825mm,9.575mm) from Top Layer to Bottom Layer And Via (11.425mm,9.575mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.3mm < 0.305mm) Between Via (11.125mm,10.1mm) from Top Layer to Bottom Layer And Via (11.425mm,9.575mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.295mm < 0.305mm) Between Via (11.125mm,10.1mm) from Top Layer to Bottom Layer And Via (11.725mm,10.1mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.3mm < 0.305mm) Between Via (11.425mm,9.575mm) from Top Layer to Bottom Layer And Via (11.725mm,10.1mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.295mm < 0.305mm) Between Via (11.425mm,9.575mm) from Top Layer to Bottom Layer And Via (12.025mm,9.575mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.3mm < 0.305mm) Between Via (11.725mm,10.1mm) from Top Layer to Bottom Layer And Via (12.025mm,9.575mm) from Top Layer to Bottom Layer 
+Rule Violations :7
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (OnLayer('Top Overlay')  or   OnLayer('Bottom Overlay'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.2mm) Between Board Edge And Pad SW3-1(9.5mm,54.95mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.2mm) Between Board Edge And Pad SW3-2(12mm,54.95mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.2mm) Between Board Edge And Pad SW3-3(14.5mm,54.95mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.2mm) Between Board Edge And Pad SW4-1(26.25mm,54.95mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.2mm) Between Board Edge And Pad SW4-2(28.75mm,54.95mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.2mm) Between Board Edge And Pad SW4-3(31.25mm,54.95mm) on Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=2539.975mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+   Waived Violation between Clearance Constraint: (0.116mm < 0.127mm) Between Pad SW3-(15.4mm,53.75mm) on Multi-Layer And Pad SW3-6(14.5mm,52.55mm) on Bottom Layer Waived by James at 7/6/2020 1:19:48 PMPart of footprint
+   Waived Violation between Clearance Constraint: (0.116mm < 0.127mm) Between Pad SW3-(8.6mm,53.75mm) on Multi-Layer And Pad SW3-4(9.5mm,52.55mm) on Bottom Layer Waived by James at 7/5/2020 5:59:31 AMPart of footprint
+   Waived Violation between Clearance Constraint: (0.116mm < 0.127mm) Between Pad SW4-(25.35mm,53.75mm) on Multi-Layer And Pad SW4-4(26.25mm,52.55mm) on Bottom Layer Waived by James Liu at 7/5/2020 5:56:24 AMPart of footprint
+   Waived Violation between Clearance Constraint: (0.116mm < 0.127mm) Between Pad SW4-(32.15mm,53.75mm) on Multi-Layer And Pad SW4-6(31.25mm,52.55mm) on Bottom Layer Waived by James at 7/6/2020 1:19:36 PMPart of footprint
+Waived Violations :4
+
+
+Violations Detected : 13
+Waived Violations : 4
+Time Elapsed        : 00:00:02
