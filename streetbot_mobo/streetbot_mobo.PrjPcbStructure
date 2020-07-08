@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=eth.SchDoc
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_eth|SchDesignator=U_eth|FileName=eth.SchDoc|SymbolType=Normal|RawFileName=eth.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_power_module|SchDesignator=U_power_module|FileName=power_module.SchDoc|SymbolType=Normal|RawFileName=power_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_stm32_module|SchDesignator=U_stm32_module|FileName=stm32_module.SchDoc|SymbolType=Normal|RawFileName=stm32_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
