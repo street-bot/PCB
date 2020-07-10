@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XBBPPIVD
 
 [Document5]
+DocumentPath=eth_connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NRDPSUXV
+
+[Document6]
 DocumentPath=..\food_box.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=..\food_box.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIXYGEIL
 
-[Document7]
+[Document8]
 DocumentPath=..\food_box.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,22 +173,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSEBEEOH
 
-[Document8]
-DocumentPath=m12_eth.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for food_box_board\Design Rule Check - food_box_board.html
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NRDPSUXV
 
 [Configuration1]
 Name=Sources
