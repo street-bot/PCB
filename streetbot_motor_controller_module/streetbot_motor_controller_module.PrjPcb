@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=4
 ChannelRoomNamingStyle=2
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component_$ChannelIndex
 ChannelRoomLevelSeperator=_
 OpenOutputs=0
 ArchiveProject=1
@@ -121,6 +121,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for streetbot_motor_controller_module\Design Rule Check - main.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
