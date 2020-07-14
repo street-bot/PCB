@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[powerhub.GTO]
+   Generated File[powerhub.GTP]
+   Generated File[powerhub.GTS]
+   Generated File[powerhub.GTL]
+   Generated File[powerhub.GBL]
+   Generated File[powerhub.GBS]
+   Generated File[powerhub.GBP]
+   Generated File[powerhub.GBO]
+   Generated File[powerhub.GM1]
+   Generated File[powerhub.GKO]
+   Generated File[powerhub.RUL]
+   Generated File[powerhub.EXTREP]
+   Generated File[powerhub.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 7:11:27 PM On 7/13/2020
