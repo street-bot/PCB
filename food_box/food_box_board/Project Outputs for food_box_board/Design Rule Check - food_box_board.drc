@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\frank\Desktop\streetbot\PCB\food_box\food_box_board\food_box_board.PcbDoc
-Date     : 2020-07-10
-Time     : 3:14:28 PM
+Date     : 2020-07-13
+Time     : 8:00:22 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -18,17 +18,17 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=5mil) (Max=500mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=500mil) (Preferred=5mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
-   Violation between Minimum Annular Ring: (Collision < 3mil) Via (5175mil,2702mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (Collision < 3mil) Via (5175mil,2748mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (Collision < 3mil) Via (5245mil,2702mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (Collision < 3mil) Via (5245mil,2748mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (1891.811mil,3090mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (1891.811mil,3160mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (1937.811mil,3090mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 3mil) Via (1937.811mil,3160mil) from Top Layer to Bottom Layer (Annular Ring=0mil) On (Top Layer)
 Rule Violations :4
 
 Processing Rule : Hole Size Constraint (Min=12mil) (Max=39370.079mil) (All)
@@ -64,4 +64,4 @@ Rule Violations :0
 
 Violations Detected : 4
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
