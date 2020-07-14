@@ -1,1 +1,9 @@
-Record=TopLevelDocument|FileName=controller.SchDoc
+Record=TopLevelDocument|FileName=food_box.SchDoc
+Record=SheetSymbol|SourceDocument=food_box.SchDoc|Designator=Controller|SchDesignator=Controller|FileName=controller.SchDoc|SymbolType=Normal|RawFileName=controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=food_box.SchDoc|Designator=Ethernet|SchDesignator=Ethernet|FileName=ethernet.SchDoc|SymbolType=Normal|RawFileName=ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=food_box.SchDoc|Designator=I/O|SchDesignator=I/O|FileName=io.schdoc|SymbolType=Normal|RawFileName=io.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=food_box.SchDoc|Designator=Power Supply|SchDesignator=Power Supply|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=io.schdoc|Designator=Box Actuator A|SchDesignator=Box Actuator A|FileName=actuator.SchDoc|SymbolType=Normal|RawFileName=actuator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=io.schdoc|Designator=Box Actuator B|SchDesignator=Box Actuator B|FileName=actuator.SchDoc|SymbolType=Normal|RawFileName=actuator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=io.schdoc|Designator=Light A|SchDesignator=Light A|FileName=actuator.SchDoc|SymbolType=Normal|RawFileName=actuator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=io.schdoc|Designator=Light B|SchDesignator=Light B|FileName=actuator.SchDoc|SymbolType=Normal|RawFileName=actuator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
