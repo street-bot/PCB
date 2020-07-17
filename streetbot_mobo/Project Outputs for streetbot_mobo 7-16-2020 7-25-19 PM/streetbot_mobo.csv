@@ -1,0 +1,14 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Supplier Part Number 1
+
+"100nF","CAP 0805","C1, C2","CAP 0805 L","CAP 0805","2",""
+"10uF","CAP 0805","C4","CAP 0805 L","CAP 0805","1",""
+"2x20 M","CONN Header 2x20 M","J1, J2","CONN HDR 2x20 M TOP","CONN Header 2x20 M","2","ED10529-ND"
+"1x10 F","CONN header 1x10 F","J3, J4, J5, J6, J7","CONN HDR 1x10 F","CONN header 1x10 F","5","S7008-ND"
+"2x10 M","SBH11-PBPC-D10-ST-BK","J8, J9","CONN HDR 2x10 M TOP","CONN Header 2x10 M","2","S9172-ND"
+"pp45 2p","Heavy Duty Power Connectors PCB45 VERT.MT.SHORT TAIL LP CONT","J10, J11, J12, J13, J18","CONN PP45 2P VERT","CONN pp45 1x2 vert","5","2243-3-5911P1-ND"
+"rj45 w mag","Conn RJ-45 RCP 8 POS 2.54mm Solder ST Thru-Hole 12 Terminal 1 Port Tray","J14","CONN RJ45 MAG VERT","CONN rj45 mag vert","1","553-2608-ND"
+"PCIE x1 F Vert","10018784-10210TLF","J15_1, J15_2","CONN PCIE x1 F Vert","CONN PCIE x1 F Vert","2","609-2029-ND"
+"PCIE Latch","CONN ACCY CARD RETENTION BLACK","J16_1, J16_2, J17_1, J17_2","CONN PCIE F Latch","CONN PCIE F Latch","4","609-2061-ND"
+"600R@100M","IND 0805","L1","IND 0805 L","IND 0805","1",""
+"330","RES 0603","R1, R2","RES 0603 L","RES 0603","2",""
+"4k7","RES 0603","R3, R4","RES 0603 L","RES 0603","2",""
